@@ -9,4 +9,4 @@ The desktop version of NostalgiaLauncher for Windows. Allows you to download, st
   Documentation
 </Button>
 
-<img src="https://github.com/LegacyMinecraftPE/NostalgiaLauncherDesktop/raw/main/screenshot.png" style="border-radius: 24px;">
+<img src="/nld_screenshot1.png" style="border-radius: 24px;">

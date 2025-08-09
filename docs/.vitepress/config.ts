@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/',
 
   themeConfig: {
+
     nav: [
       { text: 'Home', link: '/' },
       {
@@ -20,10 +21,22 @@ export default defineConfig({
         text: "Docs",
         activeMatch: '/docs/',
         items: [
-          { text: "Custom versions list source", link: "/docs/custom-versions-list-source" },
-          { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" }
+          {
+            text: "NostalgiaLauncher Desktop",
+            items: [
+              { text: "Custom versions list source", link: "/docs/custom-versions-list-source" },
+              { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" }
+            ]
+          },
+          {
+            text: "Ninecraft",
+            items: [
+              { text: "Fix large D-Pad buttons", link: "/docs/fix-large-d-pad-buttons" }
+            ]
+          }
         ]
-      }
+      },
+      { text: 'Contact', link: '/contact' }
     ],
 
     sidebar: {
@@ -40,8 +53,19 @@ export default defineConfig({
         {
           text: 'Docs',
           items: [
-            { text: 'Custom versions list source', link: '/docs/custom-versions-list-source' },
-            { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' }
+            {
+              text: 'NostalgiaLauncher Desktop',
+              items: [
+                { text: 'Custom versions list source', link: '/docs/custom-versions-list-source' },
+                { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' }
+              ]
+            },
+            {
+              text: 'Ninecraft',
+              items: [
+                { text: 'Fix large D-Pad buttons', link: '/docs/fix-large-d-pad-buttons' }
+              ]
+            }
           ]
         }
       ]
@@ -53,9 +77,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/NLauncher' },
-      { icon: 'discord', link: 'https://discord.gg/4fv4RrTav4' }
+      { icon: 'discord', link: 'https://discord.gg/4fv4RrTav4' },
+      { icon: 'github', link: 'https://github.com/NLauncher' }
     ]
-
   },
 })
