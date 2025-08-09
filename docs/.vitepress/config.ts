@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NostalgiaLauncher",
   description: "Minecraft PE Alpha versions launcher for Android and Windows",
+  base: '/',
 
   themeConfig: {
     nav: [
