@@ -9,7 +9,7 @@ hero:
       text: Download for Windows
       link: /installation/desktop
     - theme: alt
-      text: Download for Mobile
+      text: Download for Android
       link: /installation/mobile
 
 ---
