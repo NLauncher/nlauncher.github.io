@@ -1,7 +1,7 @@
 # NostalgiaLauncher Desktop
 The desktop version of NostalgiaLauncher for Windows. Allows you to download, store, and quickly switch between versions
 
-<Button href="https://github.com/LegacyMinecraftPE/NostalgiaLauncherDesktop/releases" color="blue" style="margin-right: 6px;">
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases" color="blue" style="margin-right: 6px;">
   Download last version
 </Button>
 

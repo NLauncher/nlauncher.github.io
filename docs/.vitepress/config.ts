@@ -9,6 +9,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Releases', link: '/releases' },
       {
         text: "Installation",
         activeMatch: '/installation/',
