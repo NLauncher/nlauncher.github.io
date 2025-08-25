@@ -2,6 +2,17 @@
 
 ## Desktop
 
+### [1.1.2](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.2) <small><i>August 25, 2025</i></small>
+- Added launcher interface scaling setting
+- Updated default executable for launching versions (new Ninecraft build)
+- Changed sources for default version list and default executable for launching versions (changed to separate repository)
+- Other small changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.1.2/NostalgiaLauncherDesktop.1.1.2.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.1.1](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.1) <small><i>August 9, 2025</i></small>
 - Updated links leading to the new website and repository
 - Now, upon entering the launcher, the last launched version will be selected in the version selection
