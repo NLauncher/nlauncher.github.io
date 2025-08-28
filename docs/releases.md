@@ -2,6 +2,15 @@
 
 ## Desktop
 
+### [1.1.3](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.3) <small><i>August 28, 2025</i></small>
+- Added switching between dark and light themes
+- Added an About tab in the settings dialog
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.1.3/NostalgiaLauncherDesktop.1.1.3.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.1.2](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.2) <small><i>August 25, 2025</i></small>
 - Added launcher interface scaling setting
 - Updated default executable for launching versions (new Ninecraft build)
