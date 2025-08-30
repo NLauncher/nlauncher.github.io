@@ -2,6 +2,14 @@
 
 ## Desktop
 
+### [1.1.4](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.4) <small><i>August 30, 2025</i></small>
+- Fixed a bug where the default executable was not being downloaded
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.1.4/NostalgiaLauncherDesktop.1.1.4.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.1.3](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.3) <small><i>August 28, 2025</i></small>
 - Added switching between dark and light themes
 - Added an About tab in the settings dialog
