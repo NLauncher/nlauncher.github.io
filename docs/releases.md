@@ -2,6 +2,18 @@
 
 ## Desktop
 
+### [1.2.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.2.0) <small><i>September 2, 2025</i></small>
+- Introduced support for adding custom versions into an existing version source
+- Added an option in interface settings to select a custom background color
+- Added a world manager for editing world information
+- Added a texture manager for quickly installing textures for selected versions
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.2.0/NostalgiaLauncherDesktop.1.2.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.1.4](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.1.4) <small><i>August 30, 2025</i></small>
 - Fixed a bug where the default executable was not being downloaded
 <br>
