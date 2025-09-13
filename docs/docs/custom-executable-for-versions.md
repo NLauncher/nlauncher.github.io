@@ -6,5 +6,5 @@ To use a custom executable in NostalgiaLauncher, follow these steps:
 
 1. Go to the launcher settings
 2. Uncheck the "Use default launcher" box
-3. Select a executable's `exe`
+3. Select a executable's file
 4. Click Save
