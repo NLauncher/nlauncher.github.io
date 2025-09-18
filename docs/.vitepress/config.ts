@@ -26,7 +26,8 @@ export default defineConfig({
             text: "NostalgiaLauncher Desktop",
             items: [
               { text: "Custom versions list source", link: "/docs/custom-versions-list-source" },
-              { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" }
+              { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" },
+              { text: "Custom version", link: "/docs/custom-version" }
             ]
           },
           {
@@ -58,7 +59,8 @@ export default defineConfig({
               text: 'NostalgiaLauncher Desktop',
               items: [
                 { text: 'Custom versions list source', link: '/docs/custom-versions-list-source' },
-                { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' }
+                { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' },
+                { text: 'Custom version', link: '/docs/custom-version' }
               ]
             },
             {
