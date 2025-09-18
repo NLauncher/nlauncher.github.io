@@ -8,8 +8,8 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "vue": "3.2.44",
-    "vitepress": "1.0.0-alpha.28"
+    "vitepress": "^1.0.0-alpha.28",
+    "vue": "^3.2.44"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -17,5 +17,22 @@
         "@algolia/client-search"
       ]
     }
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLauncher/nlauncher.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NLauncher/nlauncher.github.io/issues"
+  },
+  "homepage": "https://github.com/NLauncher/nlauncher.github.io#readme",
+  "description": ""
 }
