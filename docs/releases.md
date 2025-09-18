@@ -2,6 +2,17 @@
 
 ## Desktop
 
+### [1.3.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.3.0) <small><i>September 18, 2025</i></small>
+- Added Linux support
+- Added support for 4 new languages: Ukrainian, Portuguese, Chinese, and Russian
+- Added Instances feature
+- Minor improvements and fixes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.3.0/NostalgiaLauncherDesktop.1.3.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.2.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.2.0) <small><i>September 2, 2025</i></small>
 - Introduced support for adding custom versions into an existing version source
 - Added an option in interface settings to select a custom background color
