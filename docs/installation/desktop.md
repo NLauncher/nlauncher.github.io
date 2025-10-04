@@ -9,4 +9,8 @@ The desktop version of NostalgiaLauncher for Windows and Linux. Allows you to do
   Documentation
 </Button>
 
+::: warning
+The launcher requires Java to be installed
+:::
+
 <img src="/nld_screenshot1.png" style="border-radius: 24px;">
