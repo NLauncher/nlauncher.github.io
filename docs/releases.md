@@ -2,6 +2,16 @@
 
 ## Desktop
 
+### [1.4.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.4.0) <small><i>November 25, 2025</i></small>
+- Support for offline launching of downloaded versions
+- Added Belarusian language
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.4.0/NostalgiaLauncherDesktop1.4.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.3.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.3.0) <small><i>September 18, 2025</i></small>
 - Added Linux support
 - Added support for 4 new languages: Ukrainian, Portuguese, Chinese, and Russian
