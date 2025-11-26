@@ -2,6 +2,14 @@
 
 ## Desktop
 
+### [1.5.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.5.0) <small><i>November 26, 2025</i></small>
+- Ninecraft will now be automatically compiled from the repository to generate an executable file on Linux.
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.5.0/NostalgiaLauncherDesktop1.5.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.4.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.4.0) <small><i>November 25, 2025</i></small>
 - Support for offline launching of downloaded versions
 - Added Belarusian language
