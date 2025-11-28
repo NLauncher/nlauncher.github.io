@@ -2,7 +2,7 @@
 A mobile launcher for downloading, installing, and easily storing versions of Minecraft PE Alpha
 
 <Button href="https://github.com/LegacyMinecraftPE/NostalgiaLauncher/releases/tag/1.0.3b1" color="green">
-  Download last version
+  Download latest version
 </Button>
 
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 12px;">
