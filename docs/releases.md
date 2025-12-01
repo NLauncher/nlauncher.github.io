@@ -2,6 +2,18 @@
 
 ## Desktop
 
+### [1.6.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.6.0) <small><i>December 1, 2025</i></small>
+- Added automatic Ninecraft compilation for Windows
+- Added the ability to choose a custom repository when compiling Ninecraft
+- Added the ability to choose a custom localization file
+- Added German language
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.6.0/NostalgiaLauncherDesktop1.6.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.5.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.5.0) <small><i>November 26, 2025</i></small>
 - Ninecraft will now be automatically compiled from the repository to generate an executable file on Linux.
 <br>
