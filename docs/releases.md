@@ -2,6 +2,15 @@
 
 ## Desktop
 
+### [1.7.1](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.7.1) <small><i>December 18, 2025</i></small>
+- Fixed dialog display issues
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.7.1/NostalgiaLauncherDesktop1.7.1.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.7.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.7.0) <small><i>December 6, 2025</i></small>
 - Design changed
 - Other minor changes
