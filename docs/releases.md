@@ -2,6 +2,18 @@
 
 ## Desktop
 
+### [1.8.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.8.0) <small><i>January 3, 2026</i></small>
+- Updated the texture extracting system in the Texture Manager
+- Updated the design of the World Manager, Texture Manager, and Instances pages
+- Translations are now loaded from a separate GitHub repository
+- Added Polish language
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.8.0/NostalgiaLauncherDesktop1.8.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.7.1](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.7.1) <small><i>December 18, 2025</i></small>
 - Fixed dialog display issues
 - Other minor changes
