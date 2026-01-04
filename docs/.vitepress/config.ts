@@ -14,8 +14,8 @@ export default defineConfig({
         text: "Installation",
         activeMatch: '/installation/',
         items: [
-          { text: "Mobile", link: "/installation/mobile" },
-          { text: "Desktop", link: "/installation/desktop" }
+          { text: "Desktop", link: "/installation/desktop" },
+          { text: "Mobile", link: "/installation/mobile" }
         ]
       },
       {
@@ -47,8 +47,8 @@ export default defineConfig({
         {
           text: 'Installation',
           items: [
-            { text: 'Mobile', link: '/installation/mobile' },
-            { text: 'Desktop', link: '/installation/desktop' }
+            { text: "Desktop", link: "/installation/desktop" },
+            { text: "Mobile", link: "/installation/mobile" }
           ]
         }
       ],
@@ -77,7 +77,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '© LegacyMinecraftPE 2023-2025',
+      message: '© LegacyMinecraftPE 2023-2026',
       copyright: 'This website is not affiliated with Mojang, Microsoft, or any other entity'
     },
 

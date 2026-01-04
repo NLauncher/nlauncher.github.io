@@ -13,4 +13,4 @@ The desktop version of NostalgiaLauncher for Windows and Linux. Allows you to do
 The launcher requires Java to be installed
 :::
 
-<img src="/nld_screenshot1.png" style="border-radius: 24px;">
+<img src="https://raw.githubusercontent.com/NLauncher/NostalgiaLauncherDesktop/refs/heads/main/screenshot.png" style="border-radius: 24px;">

@@ -1,4 +1,4 @@
-# NostalgiaLauncher Mobile
+# NostalgiaLauncher Mobile (Abandoned)
 A mobile launcher for downloading, installing, and easily storing versions of Minecraft PE Alpha
 
 <Button href="https://github.com/LegacyMinecraftPE/NostalgiaLauncher/releases/tag/1.0.3b1" color="green">
