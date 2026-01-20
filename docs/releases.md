@@ -2,6 +2,15 @@
 
 ## Desktop
 
+### [1.9.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.0) <small><i>January 20, 2026</i></small>
+- Added a proxy page
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.0/NostalgiaLauncherDesktop1.9.0.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.8.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.8.0) <small><i>January 3, 2026</i></small>
 - Updated the texture extracting system in the Texture Manager
 - Updated the design of the World Manager, Texture Manager, and Instances pages
