@@ -2,6 +2,17 @@
 
 ## Desktop
 
+### [1.9.1](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.1) <small><i>February 02, 2026</i></small>
+- Fixed a bug that caused the launcher components to be unpacked incorrectly
+- Added a normal dialog for displaying errors
+- Added the ability to cancel custom Ninecraft compilation
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.1/NostalgiaLauncherDesktop1.9.1.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.9.0](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.0) <small><i>January 20, 2026</i></small>
 - Added a proxy page
 - Other minor changes
