@@ -2,6 +2,18 @@
 
 ## Desktop
 
+### [1.9.2](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.2) <small><i>February 13, 2026</i></small>
+- Fixed several common bugs
+- Added the ability to import a world in the World Manager
+- The Textures page has been redesigned into a list of user-saved textures that can be installed on the selected version at any time
+- Made some design changes to the pages
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.2/NostalgiaLauncherDesktop1.9.2.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.9.1](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.1) <small><i>February 02, 2026</i></small>
 - Fixed a bug that caused the launcher components to be unpacked incorrectly
 - Added a normal dialog for displaying errors
