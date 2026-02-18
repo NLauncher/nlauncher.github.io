@@ -4,9 +4,10 @@ export default defineConfig({
   title: "NostalgiaLauncher",
   description: "Minecraft PE Alpha versions launcher for Windows, Linux and Android",
   base: '/',
+  appearance: 'dark',
 
   themeConfig: {
-
+    logo: '/icon.jpg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Releases', link: '/releases' },
@@ -25,7 +26,7 @@ export default defineConfig({
           {
             text: "NostalgiaLauncher Desktop",
             items: [
-              { text: "Common problems and their solutions", link: "/docs/common-problems"},
+              { text: "Common problems and their solutions", link: "/docs/common-problems" },
               { text: "Custom versions list source", link: "/docs/custom-versions-list-source" },
               { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" },
               { text: "Custom version", link: "/docs/custom-version" }
@@ -59,7 +60,7 @@ export default defineConfig({
             {
               text: 'NostalgiaLauncher Desktop',
               items: [
-                { text: "Common problems and their solutions", link: "/docs/common-problems"},
+                { text: "Common problems and their solutions", link: "/docs/common-problems" },
                 { text: 'Custom versions list source', link: '/docs/custom-versions-list-source' },
                 { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' },
                 { text: 'Custom version', link: '/docs/custom-version' }
@@ -77,7 +78,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '© LegacyMinecraftPE 2023-2026',
+      message: 'NostalgiaLauncher 2023-2026',
       copyright: 'This website is not affiliated with Mojang, Microsoft, or any other entity'
     },
 

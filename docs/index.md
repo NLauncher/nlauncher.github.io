@@ -4,7 +4,6 @@ layout: home
 hero:
   name: NostalgiaLauncher
   tagline: Minecraft PE Alpha versions launcher
-  image: /icon.jpg
   actions:
     - theme: brand
       text: Download for Windows & Linux
@@ -20,11 +19,11 @@ features:
     icon: 🛠️
   - title: World manager that allows editing world info
     icon: 🌍
-  - title: Fast texture installer
+  - title: Texture manager
     icon: 🎨
   - title: Instances
     icon: 📂
-  - title: And more
-    icon: ✨
+  - title: Proxy
+    icon: 🌐
 
 ---
