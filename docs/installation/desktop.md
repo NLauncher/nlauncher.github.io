@@ -5,7 +5,7 @@ The desktop version of NostalgiaLauncher for Windows and Linux. Allows you to do
   Download latest version
 </Button>
 
-<Button href="/docs/index" color="get-started" style="margin-bottom: 12px;">
+<Button href="/docs/get-started" color="orange" style="margin-bottom: 12px;">
   Get Started
 </Button>
 
