@@ -26,6 +26,7 @@ export default defineConfig({
           {
             text: "NostalgiaLauncher Desktop",
             items: [
+              { text: "Get Started", link: "/docs/get-started" },
               { text: "Common problems and their solutions", link: "/docs/common-problems" },
               { text: "Custom versions list source", link: "/docs/custom-versions-list-source" },
               { text: "Custom executable for versions", link: "/docs/custom-executable-for-versions" },
@@ -60,6 +61,7 @@ export default defineConfig({
             {
               text: 'NostalgiaLauncher Desktop',
               items: [
+                { text: "Get Started", link: "/docs/get-started" },
                 { text: "Common problems and their solutions", link: "/docs/common-problems" },
                 { text: 'Custom versions list source', link: '/docs/custom-versions-list-source' },
                 { text: 'Custom executable for versions', link: '/docs/custom-executable-for-versions' },
