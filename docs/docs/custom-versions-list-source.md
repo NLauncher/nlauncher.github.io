@@ -19,6 +19,9 @@ NostalgiaLauncher allows you to use a custom source for the list of Minecraft PE
 where:<br>
 `name`: The display name of the version in the launcher<br>
 `url`: The direct download URL for the APK file
+::: warning
+The `url` field must contain a full, valid link starting with http:// or https://.
+:::
 
 ## How to use a custom source
 To use a custom source in NostalgiaLauncher, follow these steps:
