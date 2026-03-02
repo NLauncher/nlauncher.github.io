@@ -13,5 +13,10 @@ This error occurs because the Ninecraft executable file (ninecraft.exe or just n
 ## Failed to launch game: java.lang.Exception: error.launchGameFailed:Cannot run program "/path/to/executable" (in directory "game"): CreateProcess error=193, %1 is not a valid Win32 application
 This error occurs because you selected the ZIP archive as the executable file for launching versions, instead of the actual executable file inside it (ninecraft.exe or just ninecraft)
 
+## The game window closes immediately
+1. Make sure you're using the x86 version of the game, no higher than 0.11.1-2
+2. Make sure Ninecraft supports your system. Try compiling it manually and running it. [https://github.com/MCPI-Revival/Ninecraft?tab=readme-ov-file#ninecraft](https://github.com/MCPI-Revival/Ninecraft?tab=readme-ov-file#ninecraft)
+3. Try compiling Ninecraft manually and selecting the executable file in the launcher settings
+
 ## Broken textures
 The launcher has an option to reset textures to the default ones. To do this, go to the **Textures** tab, select the version with broken textures, and click “Restore Default Textures.”
