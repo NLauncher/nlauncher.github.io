@@ -5,7 +5,7 @@ If you encounter this error, try compiling Ninecraft on your device and **[using
 Compilation instructions for Ninecraft: **[https://github.com/MCPI-Revival/Ninecraft?tab=readme-ov-file](https://github.com/MCPI-Revival/Ninecraft?tab=readme-ov-file)**
 
 ## Failed to launch game: game\libstdc++-6.dll *(or some other dll)* (The system cannot find the path specified)
-If you encounter this issue, try running the launcher with administrator privileges.
+Make sure the launcher has all the necessary permissions.
 
 ## Failed to launch game: java.lang.Exception: error.executableNotFound: *userpath*/*nlauncher_path*/game/ninecraft.exe
 This error occurs because the Ninecraft executable file (ninecraft.exe or just ninecraft) is missing in the **game** folder. To fix this, download it manually from **[https://github.com/NLauncher/components/raw/refs/heads/main/ninecraft-linux.zip](https://github.com/NLauncher/components/raw/refs/heads/main/ninecraft-linux.zip)** (for Linux) or **[https://github.com/NLauncher/components/raw/refs/heads/main/ninecraft-windows.zip](https://github.com/NLauncher/components/raw/refs/heads/main/ninecraft-windows.zip)** (for Windows) and select this file as the **[custom executable](custom-executable-for-versions.md)** in the launcher settings.
