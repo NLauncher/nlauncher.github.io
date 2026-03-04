@@ -2,6 +2,17 @@
 
 ## Desktop
 
+### [1.9.3](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.3) <small><i>March 4, 2026</i></small>
+- Added integration with Discord activity
+- Optimized scaling in the launcher
+- Added the ability to rename and delete saved textures
+- Other minor changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.3/NostalgiaLauncherDesktop1.9.3.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.9.2](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.2) <small><i>February 13, 2026</i></small>
 - Fixed several common bugs
 - Added the ability to import a world in the World Manager
