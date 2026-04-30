@@ -2,6 +2,16 @@
 
 ## Desktop
 
+### [1.9.4](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.4) <small><i>April 30, 2026</i></small>
+- Added a detailed crash report dialog for Ninecraft
+- Fixed an issue causing the debug mode terminal to not display on Linux
+- Other minor changes and improvements
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.4/NostalgiaLauncherDesktop1.9.4.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.9.3](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.3) <small><i>March 4, 2026</i></small>
 - Added integration with Discord activity
 - Optimized scaling in the launcher
