@@ -2,6 +2,18 @@
 
 ## Desktop
 
+### [1.9.5](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.5) <small><i>May 20, 2026</i></small>
+- Improved the Ninecraft compiler
+- Added the ability to add multiple sources for version lists and executable files at once
+- Added an option to clear the launcher cache
+- Bug fixes
+- Other changes
+<br>
+<Button href="https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/download/1.9.5/NostalgiaLauncherDesktop1.9.5.jar" color="green">
+  Download
+</Button>
+<hr>
+
 ### [1.9.4](https://github.com/NLauncher/NostalgiaLauncherDesktop/releases/tag/1.9.4) <small><i>April 30, 2026</i></small>
 - Added a detailed crash report dialog for Ninecraft
 - Fixed an issue causing the debug mode terminal to not display on Linux
